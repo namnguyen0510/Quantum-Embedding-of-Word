@@ -1,1 +1,4 @@
-
+# Numerical result on two vocabulary set of 5 and 12 characters
+- 'nchars.pickle': dataset
+- 'nchars_qe': quantum embedding
+- 'nchars_w2v': word2vec encoding
