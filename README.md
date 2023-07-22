@@ -12,3 +12,8 @@ encoder_english.py
 ```
 encoder_aa.py
 ```
+
+- Encoder for DNA-based Genetic Codes
+```
+encoder_dna.py
+```
