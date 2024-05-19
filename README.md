@@ -20,6 +20,9 @@ encoder_aa.py
 ```
 encoder_dna.py
 ```
-## Jupyter Notebook for comparison to benchmarking Word Embedding Corpora
+## Code for comparison to benchmarking Word Embedding Corpora
+```
+evaluate_benchmark.py
+```
 
 
