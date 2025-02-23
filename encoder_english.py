@@ -154,7 +154,7 @@ def tensorize(word):
                 xi_1.append(0)
                 xi_2.append(0)
             elif (c == 'w') or (c == 'W'):
-                xi_2.append(np.exp(2*np.pi*1j*3/7))
+                xi_3.append(np.exp(2*np.pi*1j*3/7))
                 xi_0.append(0)
                 xi_1.append(0)
                 xi_2.append(0)
